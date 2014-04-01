@@ -19,9 +19,3 @@
 *.exe
 *.out
 *.app
-
-bin/
-.*.sw[a-z]
-*~
-\#*\#
-.DS_Store
